@@ -104,14 +104,14 @@ Este proyecto funciona como una introducción perfecta para luego abordar modelo
 **Gonzalo Romero**
 `DeepRat (HermesIA)`
 📍 AI Engineer, Educador Técnico & Hacker Ético de Datos
-🔗 [LinkedIn](www.linkedin.com/in/gonzalo-romero-b9b5b4355) •
+🔗 [LinkedIn] www.linkedin.com/in/gonzalo-romero-b9b5b4355 •
 
 ---
 
 ## 📚 Recursos relacionados
 
 * 🧠 Próxima lección: [SmolVLM con cámara en vivo en tiempo real](https://github.com/ngxson/smolvlm-realtime-webcam)
-* 📖 Artículo explicativo en LinkedIn: *[Disponible aquí]([https://www.linkedin.com/posts/tu-articulo](https://www.linkedin.com/pulse/detecci%25C3%25B3n-de-objetos-en-video-con-yolov8-gu%25C3%25ADa-pr%25C3%25A1ctica-gonzalo-romero-qr4of))*
+* 📖 Artículo explicativo en LinkedIn: https://www.linkedin.com/pulse/detecci%C3%B3n-de-objetos-en-video-con-yolov8-gu%C3%ADa-pr%C3%A1ctica-gonzalo-romero-qr4of
 
 ---
 
